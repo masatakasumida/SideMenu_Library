@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F104C9F4-7A27-4EC0-9CF1-2A9936A0879F"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA93C1E2-4DE1-4680-9990-9F87670EE788"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SideMenuApp/TableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "AA93C1E2-4DE1-4680-9990-9F87670EE788 - aa15ab35dc4b2c8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SideMenuApp.TableViewCell.__allocating_init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; SideMenuApp.TableViewCell"
+                  moduleName = "SideMenuApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sumidamasataka/Desktop/TestApp/SideMenuApp/SideMenuApp/TableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "AA93C1E2-4DE1-4680-9990-9F87670EE788 - cb381c2a4b8e587c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SideMenuApp.TableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; SideMenuApp.TableViewCell"
+                  moduleName = "SideMenuApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sumidamasataka/Desktop/TestApp/SideMenuApp/SideMenuApp/TableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "AA93C1E2-4DE1-4680-9990-9F87670EE788 - fb9b1e0ca4a58ead"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SideMenuApp.TableViewCell.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SideMenuApp.TableViewCell&gt;"
+                  moduleName = "SideMenuApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sumidamasataka/Desktop/TestApp/SideMenuApp/SideMenuApp/TableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "AA93C1E2-4DE1-4680-9990-9F87670EE788 - aa403789c0ce4918"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SideMenuApp.TableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SideMenuApp.TableViewCell&gt;"
+                  moduleName = "SideMenuApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sumidamasataka/Desktop/TestApp/SideMenuApp/SideMenuApp/TableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "AA93C1E2-4DE1-4680-9990-9F87670EE788 - 2aef5bbf2c63222c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SideMenuApp.TableViewCell.__deallocating_deinit"
+                  moduleName = "SideMenuApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sumidamasataka/Desktop/TestApp/SideMenuApp/SideMenuApp/TableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
